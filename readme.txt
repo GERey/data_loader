@@ -1,0 +1,1 @@
+Call by downloading the script and running python data_generator.py and adding hte arguments you need. By default its using post requests and it waits for 1 second before the next post request so that we don't get rate limited. It is adjustable though.
